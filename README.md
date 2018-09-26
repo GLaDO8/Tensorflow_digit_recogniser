@@ -1,4 +1,4 @@
-# Tensorflow implementation of digit recognizer on MNIST data
+# Tensorflow digit recogniser
 MNIST's handwritten digit database is a very basic dataset for learning neural networks. The dataset contains 70,000 images of 28x28 pixels size. The implementation uses Tensorflow library for creating CNNs. 
 
 There are two implementations.
