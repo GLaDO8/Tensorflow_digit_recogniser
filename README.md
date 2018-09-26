@@ -5,7 +5,7 @@ There are two implementations.
 * using tf.estimator
 * using low-level tensorflow APIs
 
-*There are proper comments on the flow of the code*
+*There are proper comments describing the flow of the code*
 
 ### tf.estimator
 tf.estimator is a high-level API which encapsulates the training, evaluation and prediction aspects of a ML model. The estimator object takes in the model function which describes the layer architechture of the CNN. The user can specify
